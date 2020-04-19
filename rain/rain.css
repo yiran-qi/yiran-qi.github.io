@@ -1,0 +1,28 @@
+body
+{
+    text-align: center;
+    background-color: black;
+}
+.title
+{
+    text-align: center;
+    font-family: 'Barrio';
+    font-size: 2em;
+    color: white;
+    padding-top: 0.25em;
+    padding-bottom: 0em;
+}
+.display
+{
+    text-align: center;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    font-size: 0.9em;
+    color: white;
+    padding-top: 0em;
+    padding-bottom: 0.5em;
+}
+#c
+{
+    border: solid 2px darkmagenta;
+    margin: 0;
+}
